@@ -7,64 +7,64 @@ Untuk menjalankan web server, buka aplikasi XAMPP kemudian buka browser ketik ht
 
 Buat file baru dengan nama php_dasar.php dan tempatkan filenya di directory d:xampp/htdocs kemudian tuliskan kode berikut.
 
-![Gambar 1](screenshot/ss1a.png)
+![Gambar 1](screenshoot/ss1a.png)
 
 Untuk menjalankan kode diatas, buka browser kemudian tulis http://localhost/lab7_php_dasar/php_dasar.php
 Ini tampilannya di browser
 
-![Gambar 2](screenshot/ss1b.png)
+![Gambar 2](screenshoot/ss1b.png)
 
 ## Variable PHP
 
 Tulis kode berikut.
 
-![Gambar 3](screenshot/ss2a.png)
+![Gambar 3](screenshoot/ss2a.png)
 
 Ini tampilannya di browser.
 
-![Gambar 4](screenshot/ss2b.png)
+![Gambar 4](screenshoot/ss2b.png)
 
 ## Predefine Variable $\_GET
 
 Tulis kode berikut.
 
-![Gambar 5](screenshot/ss3a.png)
+![Gambar 5](screenshoot/ss3a.png)
 
 Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/php_dasar.php?nama=Agung
 
 Ini tampilannya di browser.
 
-![Gambar 6](screenshot/ss3b.png)
+![Gambar 6](screenshoot/ss3b.png)
 
 ## Membuat Form Input
 
 Tulis kode berikut dengan method="post" lalu pada syntax PHP tambahkan $\_POST untuk mengambil data dari inputan.
 
-![Gambar 7](screenshot/ss4a.png)
+![Gambar 7](screenshoot/ss4a.png)
 
 Ini tampilannya di browser.
 
-![Gambar 8](screenshot/ss4b.png)
+![Gambar 8](screenshoot/ss4b.png)
 
 ## Operator
 
 Tulis kode berikut.
 
-![Gambar 9](screenshot/ss5a.png)
+![Gambar 9](screenshoot/ss5a.png)
 
 Ini tampilannya di browser.
 
-![Gambar 10](screenshot/ss5b.png)
+![Gambar 10](screenshoot/ss5b.png)
 
 ## Kondisi IF
 
 Tulis kode berikut.
 
-![Gambar 11](screenshot/ss6a.png)
+![Gambar 11](screenshoot/ss6a.png)
 
 Ini tampilannya di browser.
 
-![Gambar 12](screenshot/ss6b.png)
+![Gambar 12](screenshoot/ss6b.png)
 
 Hasilnya sesuai dengan waktu saat kita ngoding, kalau ngoding hari senin maka hasilnya hari senin dan seterusnya.
 
@@ -72,11 +72,11 @@ Hasilnya sesuai dengan waktu saat kita ngoding, kalau ngoding hari senin maka ha
 
 Tulis kode berikut.
 
-![Gambar 13](screenshot/ss7a.png)
+![Gambar 13](screenshoot/ss7a.png)
 
 Ini tampilannya di browser.
 
-![Gambar 14](screenshot/ss7b.png)
+![Gambar 14](screenshoot/ss7b.png)
 
 Hasilnya sesuai dengan waktu saat kita ngoding, kalau ngoding hari senin maka hasilnya hari senin dan seterusnya.
 
@@ -84,31 +84,31 @@ Hasilnya sesuai dengan waktu saat kita ngoding, kalau ngoding hari senin maka ha
 
 Tulis kode berikut.
 
-![Gambar 15](screenshot/ss8a.png)
+![Gambar 15](screenshoot/ss8a.png)
 
 Ini hasilnya di browser.
 
-![Gambar 16](screenshot/ss8b.png)
+![Gambar 16](screenshoot/ss8b.png)
 
 ## Perulangan while
 
 Tulis kode berikut.
 
-![Gambar 17](screenshot/ss9a.png)
+![Gambar 17](screenshoot/ss9a.png)
 
 Ini hasilnya di browser.
 
-![Gambar 18](screenshot/ss9b.png)
+![Gambar 18](screenshoot/ss9b.png)
 
 ## Perulangan dowhile
 
 Tulis kode berikut.
 
-![Gambar 19](screenshot/ss10a.png)
+![Gambar 19](screenshoot/ss10a.png)
 
 Ini hasilnya di browser.
 
-![Gambar 20](screenshot/ss10b.png)
+![Gambar 20](screenshoot/ss10b.png)
 
 ## Pertanyaan dan Tugas
 
@@ -121,20 +121,20 @@ berbeda-beda sesuai pilihan pekerjaan.
 
 Ini adalah syntax HTML nya
 
-![Gambar 21](screenshot/ss11a.png)
+![Gambar 21](screenshoot/ss11a.png)
 
 Kemudian ini adalah syntax PHP nya
 
-![Gambar 22](screenshot/ss11b.png)
+![Gambar 22](screenshoot/ss11b.png)
 
 Ini hasilnya di browser.
 
-![Gambar 23](screenshot/ss11c.png)
+![Gambar 23](screenshoot/ss11c.png)
 
 Kemudian form di isi seperti dibawah .
 
-![Gambar 24](screenshot/ss11d.png)
+![Gambar 24](screenshoot/ss11d.png)
 
 Dan ini hasilnya
 
-![Gambar 25](screenshot/ss11e.png)
+![Gambar 25](screenshoot/ss11e.png)
